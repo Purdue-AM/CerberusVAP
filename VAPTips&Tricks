@@ -1,0 +1,12 @@
+Priming The Syringe (Faster)
+* do these steps while the syringe is not screwed in to the transducer and the pressure is attached to the syringe
+- to get the syringe material to flow to the tip faster, stick a small needle in the syringe tip
+- turn on the backpressure and wiggle the syringe until the material is at the tip
+- then, screw the syringe to the transducer 
+
+Reduce Material Adhering to the Transducer Tip
+- screw the syringe three of more full revolutions in the transducer. This will result to less smearing and a much better print quality. This increases the height between the deposited material and the ultrasonic tip.This is important as when material comes in contact with the ultrasonic tip, it has a tendency to stick to it due to the vibrations induced
+- it is important to note that that may affect flow properties as the syringe tip as it changes the syringe node
+
+Finding Resonant Frequency by Ear
+- for the bent ultrasonic tip, rest a light piece of metal on the front of the tip. For the unbent, rest it on the side to hear the vibrations
