@@ -1,1 +1,1 @@
-Documentation and files (CAD and .stl) for transducer connector parts
+Documentation and files (.step and .stl) for transducer connector parts
